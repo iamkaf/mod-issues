@@ -23,6 +23,8 @@ body:
         - Sunny
         - Kei
         - Other
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -50,6 +52,8 @@ body:
         - Fabric
         - NeoForge
         - Other
+    validations:
+      required: true
   - type: input
     id: mod-loader-version
     attributes:
