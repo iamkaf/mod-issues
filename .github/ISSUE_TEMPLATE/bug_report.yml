@@ -1,0 +1,59 @@
+name: Bug Report
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees:
+  - iamkaf
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: input
+    id: mc-version
+    attributes:
+      label: Minecraft Version
+      description: What version of Minecraft are you running?
+      placeholder: 1.21.1
+      value: 1.21.1
+    validations:
+      required: true
+  - type: dropdown
+    id: mod-loader
+    attributes:
+      label: What mod loader are you using?
+      multiple: false
+      options:
+        - Fabric
+        - NeoForge
+        - Other
+  - type: input
+    id: mod-loader-version
+    attributes:
+      label: Mod Loader Version
+      description: What version of the Mod Loader are you running?
+      placeholder: 16.5
+      value: 16.5
+    validations:
+      required: true
+  - type: textarea
+    id: mod-list
+    attributes:
+      label: Mod List
+      description: Please share the mods you\'re using and their versions if applicable.
+      render: shell
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
