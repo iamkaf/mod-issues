@@ -23,8 +23,8 @@ body:
     attributes:
       label: Minecraft Version
       description: What version of Minecraft are you running?
-      placeholder: 1.21.1
-      value: 1.21.1
+      placeholder: "1.21.1"
+      value: "1.21.1"
     validations:
       required: true
   - type: dropdown
@@ -41,8 +41,8 @@ body:
     attributes:
       label: Mod Loader Version
       description: What version of the Mod Loader are you running?
-      placeholder: 16.5
-      value: 16.5
+      placeholder: "16.5"
+      value: "16.5"
     validations:
       required: true
   - type: textarea
