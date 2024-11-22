@@ -17,11 +17,12 @@ body:
       options:
         - Amber
         - Arcane Armory
-        - Kaf\'s Valentine Special
+        - Lovely
         - Liteminer
         - Mochila
         - Sunny
-        - Kei
+        - Bonded
+        - Dynamic Edge
         - Other
     validations:
       required: true
