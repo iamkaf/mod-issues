@@ -23,6 +23,7 @@ body:
         - Sunny
         - Bonded
         - Dynamic Edge
+        - Kaf HUD
         - Other
     validations:
       required: true
