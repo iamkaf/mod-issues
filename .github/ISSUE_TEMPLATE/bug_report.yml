@@ -17,13 +17,15 @@ body:
       options:
         - Amber
         - Arcane Armory
-        - Lovely
+        - Kafs Valentine Special
         - Liteminer
         - Mochila
         - Sunny
         - Bonded
         - Dynamic Edge
         - Kaf HUD
+        - Extended Golf
+        - Torch Toss
         - Other
     validations:
       required: true
