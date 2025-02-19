@@ -29,3 +29,8 @@ body:
         - Other
     validations:
       required: true
+  - type: input
+    id: mc-more-info
+    attributes:
+      label: Additional Information
+      description: "Anything else you'd like to add?"
