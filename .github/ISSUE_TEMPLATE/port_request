@@ -1,0 +1,31 @@
+name: Bug Report
+description: File a bug report.
+title: "[Port Request]: "
+labels: ["enhancement"]
+assignees:
+  - iamkaf
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this port request!
+  - type: input
+    id: mc-version
+    attributes:
+      label: Minecraft Version
+      description: What version of Minecraft?
+      placeholder: "1.21.1"
+      value: "1.21.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: mod-loader
+    attributes:
+      label: Which mod loader?
+      multiple: false
+      options:
+        - Fabric
+        - NeoForge
+        - Other
+    validations:
+      required: true
