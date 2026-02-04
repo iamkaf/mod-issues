@@ -10,4 +10,4 @@ All active issues, bug reports, and feature requests have been moved to their re
 ### 🧪 [Amber](https://github.com/iamkaf/amber/issues)
 ### 🔥 [Torch Toss](https://github.com/iamkaf/torch-toss/issues)
 
-If you're looking for a mod not listed here, please check its specific GitHub repository under the [iamkaf](https://github.com/iamkaf) profile.
+If you're looking for a mod not listed here, please check its specific GitHub repository under [my profile](https://github.com/iamkaf).
