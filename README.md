@@ -1,6 +1,13 @@
-# mod-issues
-A centralized repository for iamkaf mod issues.
+# ⚠️ Mod Issues - MOVED
 
-[![Issues](https://img.shields.io/github/issues/iamkaf/mod-issues?style=for-the-badge&color=%23eee)](https://github.com/iamkaf/mod-issues)
-[![Discord](https://img.shields.io/discord/1207469438719492176?style=for-the-badge&logo=discord&label=DISCORD&color=%235865F2)](https://discord.gg/HV5WgTksaB)
-[![KoFi](https://img.shields.io/badge/KoFi-iamkaf?style=for-the-badge&logo=kofi&logoColor=%2330d1e3&label=Support%20Me&color=%2330d1e3)](https://ko-fi.com/iamkaffe)
+The central issue tracker for Kaf's mods has been **decommissioned**. 
+
+All active issues, bug reports, and feature requests have been moved to their respective project repositories. Please use the links below to report issues or track progress:
+
+### ⛏️ [Liteminer](https://github.com/iamkaf/liteminer/issues)
+### 🔗 [Bonded](https://github.com/iamkaf/bonded/issues)
+### 🎒 [Mochila](https://github.com/iamkaf/mochila2/issues)
+### 🧪 [Amber](https://github.com/iamkaf/amber/issues)
+### 🔥 [Torch Toss](https://github.com/iamkaf/torch-toss/issues)
+
+If you're looking for a mod not listed here, please check its specific GitHub repository under the [iamkaf](https://github.com/iamkaf) profile.
